@@ -29,11 +29,11 @@ Tenho experiência prática com suporte técnico, configuração de equipamentos
 
 ## Projetos em destaque
 
-### 🖥️ Windows Server Lab
+### Windows Server Lab
 
 Laboratório criado para praticar gerenciamento de usuários, grupos, permissões e compartilhamento de arquivos em ambiente Windows Server.
 
-### 📊 Monitoramento de Máquinas Têxteis
+### Monitoramento de Máquinas Têxteis
 
 Projeto acadêmico em equipe para monitoramento de máquinas têxteis utilizando ESP32, fotoresistor e dashboard. Atualmente 
 atuo na implementação e organização do frontend do dashboard.
