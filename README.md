@@ -46,5 +46,3 @@ Busco oportunidades na área de Infraestrutura de TI, Suporte Técnico e Redes, 
 
 - E-mail: vanessamachadorodrigues14@gmail.com
 - WhatsApp: (19) 98849-0752
-
-LinkedIn: adicione seu link aqui
